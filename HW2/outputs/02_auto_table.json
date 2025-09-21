@@ -1,0 +1,30 @@
+[
+  {
+    "Year":"2022",
+    "FirstAuthor":"Hogarth",
+    "Title":"Causal evidence that dorsolateral prefrontal cortex governs goal-directed control over behaviour in human addiction",
+    "Sample":"55 abstinent smokers",
+    "Paradigm\/Task":"Pavlovian-instrumental transfer test",
+    "RLDM_Construct":"Goal-directed control",
+    "NIBS_Type&Target":"tDCS, left dlPFC",
+    "Protocol":"Anodal tDCS (1.5mA, 20 min)",
+    "BehavioralOutcome":"Reduced influence of instrumental training on subsequent cue-evoked performance",
+    "ComputationalMeasure":"",
+    "NeuralMeasure(fMRI\/EEG)":"",
+    "Limitation":"Only smokers were tested."
+  },
+  {
+    "Year":"2018",
+    "FirstAuthor":"Wiers",
+    "Title":"Modulating the neurocognitive mechanisms of alcohol dependence: a proof-of-principle study combining transcranial direct current stimulation and cognitive training.",
+    "Sample":"40 alcohol-dependent patients",
+    "Paradigm\/Task":"Approach bias modification training",
+    "RLDM_Construct":"Approach bias",
+    "NIBS_Type&Target":"tDCS, left dlPFC",
+    "Protocol":"Anodal tDCS (2mA, 20 min) during training",
+    "BehavioralOutcome":"Reduced alcohol-approach bias",
+    "ComputationalMeasure":"",
+    "NeuralMeasure(fMRI\/EEG)":"",
+    "Limitation":"Small sample size."
+  }
+]
